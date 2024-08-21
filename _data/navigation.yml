@@ -12,3 +12,5 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "CV"
+    url: #directly to file cv.pdf
